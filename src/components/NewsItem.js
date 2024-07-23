@@ -17,7 +17,7 @@ export default function NewsItem(props) {
         </div>
         <img
           src={
-            imgUrl ? imgUrl : "https://cdn.ndtv.com/common/images/ogndtv.png"
+            imgUrl ? imgUrl : "https://th.bing.com/th/id/OIP.NUBdP1YEHY-K093mb_TQ1gHaFj?rs=1&pid=ImgDetMain"
           }
           className="card-img-top"
           alt="..."
